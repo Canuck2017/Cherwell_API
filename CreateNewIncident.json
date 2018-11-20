@@ -1,0 +1,29 @@
+{              "busObId": "6dd53665c0c24cab86870a21cf6434ae",
+                "fields": [
+ 
+{
+                "dirty": true,
+                "displayName": "Detailed Description",
+                "fieldId": "252b836fc72c4149915053ca1131d138",
+                "name": "Description",
+                "value": "Testing API Call - detailed"
+},
+{
+                "dirty": true,
+                "displayName": "Short Description",
+                "fieldId": "93e8ea93ff67fd95118255419690a50ef2d56f910c",
+                "name": "ShortDescription",
+                "value": "Testing API Call"
+},
+{
+                "dirty": true,
+                "displayName": "Customer Display Name",
+                "fieldId": "93734aaff77b19d1fcfd1d4b4aba1b0af895f25788",
+                "name": "CustomerDisplayName",
+                "value": "Mike Tyson"
+},
+ 
+ 
+                                ]
+}
+ 
